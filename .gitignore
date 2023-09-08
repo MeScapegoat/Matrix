@@ -1,0 +1,7 @@
+#ignore all
+*
+#Except .h, .cpp, .jpg and .md
+!*.h
+!*.cpp
+!*.jpg
+!*.md
